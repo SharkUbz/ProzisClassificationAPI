@@ -1,0 +1,31 @@
+text,label
+"Whey Isolate",search_product
+"ver multivitaminicos",search_product
+"barra de amendoim",search_product
+"procurar creatina",search_product
+"encontrar proteína vegetal",search_product
+"Qual a diferença entre whey concentrada e isolada?",product_info
+"benefícios omega 3",product_info
+"como tomar creatina",product_info
+"para que serve BCAA?",product_info
+"efeitos da glutamina",product_info
+"Adicionar 1kg de aveia ao carrinho",add_to_cart
+"quero comprar 2 caixas de barras",add_to_cart
+"põe a creatina no cesto",add_to_cart
+"adiciona vitamina D ao carrinho",add_to_cart
+"comprar pack de proteínas",add_to_cart
+"Mostrar carrinho",go_to_shopping_cart
+"ir para o cesto",go_to_shopping_cart
+"quero finalizar",go_to_shopping_cart
+"ver os itens do carrinho",go_to_shopping_cart
+"consultar carrinho de compras",go_to_shopping_cart
+"Confirmar encomenda",confirm_order
+"pagar agora",confirm_order
+"finalizar compra",confirm_order
+"efetuar pagamento",confirm_order
+"concluir a encomenda",confirm_order
+"obrigado",unknown_intention
+"preciso de ajuda",unknown_intention
+"falar com suporte",unknown_intention
+"promoções?",unknown_intention
+"tens desconto?",unknown_intention
